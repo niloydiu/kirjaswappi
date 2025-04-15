@@ -536,7 +536,7 @@ const App = () => {
         </div>
 
         {/* Exchange Information */}
-        <div className="flex flex-col gap-3 py-4 h-58 w-full max-w-3xl mx-auto ">
+        <div className="flex flex-col gap-3 mt-5 py-4 h-58 w-full max-w-3xl mx-auto ">
           <div className=" flex flex-col gap-2 mx-auto">
             <img
               src={assets.exchange}
@@ -645,7 +645,7 @@ const App = () => {
         <hr className="w-[343px] mx-auto h-[1px] bg-[#E4E4E4] border-0" />
 
         {/* More from this user section */}
-        <div className="w-[343px] mx-auto flex flex-col justify-between items-center my-4">
+        <div className="w-[343px] mx-auto flex flex-col justify-between items-center my-4 mt-4">
           <div className="flex w-full justify-between items-center">
             <h1 className="font-poppins font-normal text-[14px] leading-[20px]">
               More from this user
